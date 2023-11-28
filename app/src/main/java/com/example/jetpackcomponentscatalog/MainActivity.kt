@@ -91,8 +91,7 @@ class MainActivity : ComponentActivity() {
                         show = show,
                         onDismiss = {show =false}
                     )*/
-                    SuperHeroView()
-
+                    SuperHeroStickyView()
                 }
             }
         }
