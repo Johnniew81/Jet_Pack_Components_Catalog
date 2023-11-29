@@ -91,7 +91,7 @@ class MainActivity : ComponentActivity() {
                         show = show,
                         onDismiss = {show =false}
                     )*/
-                    SuperHeroStickyView()
+                    ScaffoldExample()
                 }
             }
         }
